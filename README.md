@@ -3,6 +3,14 @@
 ## 📊 Overview
 This Shiny dashboard provides interactive visualizations of Netflix subscriber data across 10 countries. The application allows users to explore subscriber demographics, revenue patterns, and device usage through dynamic filters and interactive charts.
 
+## Dashboard Overview
+
+Here’s a preview of the dashboard:
+
+![Dashboard Overview](netflix-userbase-dashboard-1.png)
+![Dashboard Overview](netflix-userbase-dashboard-2.png)
+![Dashboard Overview](netflix-userbase-dashboard-3.png)
+
 ## 🛠 Features
 
 ### 1. 🌍 **Global Subscriber Map**
