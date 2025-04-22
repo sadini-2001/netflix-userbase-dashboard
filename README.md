@@ -84,5 +84,12 @@ To run this application, you'll need:
   - ggplot2
 
 
-## 🎯 Conclusion
-This dashboard provides valuable insights for business analysts, marketing teams, and product managers at Netflix to understand their subscriber base and make data-driven decisions. By exploring various trends and patterns, it enables better decision-making processes and strategies to improve user engagement and revenue growth.
+## 👩‍💻 Author
+
+**Weerappulige Sadini Thiranja - BSc (Hons) in Data Science, University of Colombo, Sri Lanka**  
+Data enthusiast passionate about applying analytics to real-world problems.  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sadini-thiranja-b028662a1/)
+
+---
+
+📌 *This dashboard is for educational and research purposes only.*
